@@ -1,0 +1,11 @@
+C:\Users\koa93\source\repos\ПР 7\ПР 7\bin\Debug\ПР 7.exe.config
+C:\Users\koa93\source\repos\ПР 7\ПР 7\bin\Debug\ПР 7.exe
+C:\Users\koa93\source\repos\ПР 7\ПР 7\bin\Debug\ПР 7.pdb
+C:\Users\koa93\source\repos\ПР 7\ПР 7\obj\Debug\ПР 7.csproj.AssemblyReference.cache
+C:\Users\koa93\source\repos\ПР 7\ПР 7\obj\Debug\ПР_7.Form1.resources
+C:\Users\koa93\source\repos\ПР 7\ПР 7\obj\Debug\ПР_7.Properties.Resources.resources
+C:\Users\koa93\source\repos\ПР 7\ПР 7\obj\Debug\ПР 7.csproj.GenerateResource.cache
+C:\Users\koa93\source\repos\ПР 7\ПР 7\obj\Debug\ПР 7.csproj.CoreCompileInputs.cache
+C:\Users\koa93\source\repos\ПР 7\ПР 7\obj\Debug\ПР 7.exe
+C:\Users\koa93\source\repos\ПР 7\ПР 7\obj\Debug\ПР 7.pdb
+C:\Users\koa93\source\repos\ПР 7\ПР 7\obj\Debug\ПР_7.Form2.resources
